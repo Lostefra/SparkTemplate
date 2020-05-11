@@ -1,7 +1,7 @@
 # SparkTemplate
 A simple **Java-Scala** mixed project **template** for **Apache Spark**
 <p align="center">
-<img src="images/spark-aws.png" alt="alt text" width="80%" height="50%">
+<img src="images/spark-aws.png" alt="alt text" width="60%" height="37.5%">
 </p>
 You can simply download and import this project in your IDE (preferably in <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>), then edit your code and export your executable jar file.
 
